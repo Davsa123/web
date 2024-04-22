@@ -1,4 +1,9 @@
 body
 {
-    background-image: url("lopta.jpg")
+	background-image: url("lopta.jpg")
+}
+p
+{
+	font-family:Verdana,Helvetica;
+	font-size:12px;
 }
